@@ -1,5 +1,3 @@
-A continuación, proporcionaré una descripción para incluir en tu archivo README sobre esta práctica que calcula la suma de los números del 1 al n:
-
 ## Descripción de la Práctica: Suma de los Números del 1 al N
 
 Este programa está diseñado para calcular la suma de los números del 1 al n, donde "n" es un número ingresado por el usuario. Es una práctica de programación en C++ que utiliza un bucle `for` para sumar los números consecutivos.
